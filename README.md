@@ -4,9 +4,7 @@
 
 A Ruby command line program that takes in a set of documents and a set of words, and returns the document with the highest [term frequency (TF)](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) for each word as well as the TF.
 
----
 ```TF(wi, dj) = the number of times word wi occurs in the document dj/the count of words in document dj```
----
 
 For the purposes of this assignment, a sample set of documents and a sample set of words are used to run this program; see output below:
 
